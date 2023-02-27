@@ -1,5 +1,4 @@
 * { 
-    margin: auto;
     background: border-box;
 }
 
@@ -71,4 +70,24 @@ table {
 h3 {
     padding-top: 20px;
     color: grey;
+}
+
+.picture-1 {
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    width: 312px;
+    height: 208px;
+}
+
+.picture-2 {
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    width: 312px;
+    height: 208px;
 }
