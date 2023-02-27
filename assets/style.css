@@ -1,3 +1,8 @@
+* { 
+    margin: auto;
+    background: border-box;
+}
+
 .banner {
     background-image: url(../img/pattern.png);
     background-color: rgba(55, 159, 228, 0.932);
@@ -6,13 +11,24 @@
 }
 
 .logo {
-    
-   margin-top: 80px;
-   margin-left: 10px;
-   width: 200px;
-   height: 100px;
+    margin-top: 80px;
+    width: 200px;
+    height: 100px;
 }
 
 h1 {
     font-size: 70px;
+}
+
+.grey {
+    color: grey;
+    font-size: 25px;
+}
+
+.size1 {
+    font-size: 15px;
+}
+
+.blue {
+    color: rgb(53, 162, 212);
 }
