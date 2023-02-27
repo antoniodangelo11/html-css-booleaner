@@ -73,9 +73,6 @@ h3 {
 }
 
 .picture-1 {
-    font-weight: bolder;
-    font-size: larger;
-    color: white;
     background-image: url(../img/monitor.jpg);
     background-size: contain;
     width: 312px;
@@ -83,11 +80,14 @@ h3 {
 }
 
 .picture-2 {
-    font-weight: bolder;
-    font-size: larger;
-    color: white;
     background-image: url(../img/graph.jpg);
     background-size: contain;
     width: 312px;
     height: 208px;
+}
+
+.text {
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
 }
