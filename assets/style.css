@@ -29,7 +29,7 @@ h1 {
     font-size: 15px;
 }
 
-.blue {
+.blue-1 {
     color: rgb(53, 162, 212);
 }
 
@@ -66,4 +66,9 @@ table {
 .blue {
     color: black;
     background-color: lightblue;
+}
+
+h3 {
+    padding-top: 20px;
+    color: grey;
 }
