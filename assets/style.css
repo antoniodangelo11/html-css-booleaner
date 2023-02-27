@@ -1,0 +1,18 @@
+.banner {
+    background-image: url(../img/pattern.png);
+    background-color: rgba(55, 159, 228, 0.932);
+    width: 100%;
+    height: 180px;
+}
+
+.logo {
+    
+   margin-top: 80px;
+   margin-left: 10px;
+   width: 200px;
+   height: 100px;
+}
+
+h1 {
+    font-size: 70px;
+}
